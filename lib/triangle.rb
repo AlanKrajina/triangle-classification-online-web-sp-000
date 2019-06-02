@@ -12,6 +12,7 @@ class Triangle
     if @length1 == @length2 && @length2 == @length3
       :equilateral
     
+    elsif 
   end
   end
   
